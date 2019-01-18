@@ -18,6 +18,7 @@
     "paper-card": "PolymerElements/paper-card#^1.1.1",
     "paper-input": "PolymerElements/paper-input#^1.1.11",
     "paper-spinner": "PolymerElements/paper-spinner#^1.1.1",
+    "paper-icon-button": "PolymerElements/paper-icon-button#1.1.6",
     "pdfjs-dist": "^1.5.258"
   },
   "devDependencies": {
